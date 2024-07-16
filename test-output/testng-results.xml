@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="8" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T17:54:23 IST" name="Default suite" finished-at="2024-07-13T17:57:52 IST" duration-ms="209352">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T17:54:23 IST" name="Default test" finished-at="2024-07-13T17:57:52 IST" duration-ms="209352">
+      <class name="com.testCase.TestCases">
+        <test-method is-config="true" signature="bt()[pri:0, instance:com.testCase.TestCases@3cebbb30]" started-at="2024-07-13T17:54:23 IST" name="bt" finished-at="2024-07-13T17:54:37 IST" duration-ms="13643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="search1()[pri:0, instance:com.testCase.TestCases@3cebbb30]" started-at="2024-07-13T17:54:37 IST" name="search1" finished-at="2024-07-13T17:54:39 IST" duration-ms="2019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+        <test-method signature="testCase_1()[pri:1, instance:com.testCase.TestCases@3cebbb30]" started-at="2024-07-13T17:54:39 IST" name="testCase_1" finished-at="2024-07-13T17:56:01 IST" duration-ms="82348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_1 -->
+        <test-method signature="testCase_2()[pri:2, instance:com.testCase.TestCases@3cebbb30]" started-at="2024-07-13T17:56:01 IST" name="testCase_2" finished-at="2024-07-13T17:57:52 IST" duration-ms="111276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase_2 -->
+      </class> <!-- com.testCase.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
